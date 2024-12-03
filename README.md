@@ -1,4 +1,4 @@
- Hi there! I’m Kahsay Girmay, a passionate software developer from [Your Location].
+ Hi there! I’m Kahsay Girmay, a passionate software developer from Mekelle-Tigray-Ethiopia.
 
 🔭 I’m currently working on Fullstack developer.
 
@@ -6,9 +6,9 @@
 
 💼 I have experience in:
 - Frontend: HTML, CSS, JavaScript, Vue.js, React
-- Backend: Node.js, Express, Python
-- Database: MongoDB, PostgreSQL
+- Backend: Laravel, Node.js, Python
+- Database: MongoDB, MySQL
 
-📫 You can reach me at [your.email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+📫 You can reach me at kahsay21a@gmail@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 
-🌟 Fun fact: I love [Your Hobby or Interest Outside of Coding]!
+🌟 Fun fact: I love Sport!
