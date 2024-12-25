@@ -9,6 +9,6 @@
 - Backend: Laravel, Node.js, Python
 - Database: MongoDB, MySQL
 
-📫 You can reach me at kahsay21a@gmail@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+📫 You can reach me at kahsay21a@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 
 🌟 Fun fact: I love Sport!
