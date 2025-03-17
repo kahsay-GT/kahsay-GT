@@ -8,9 +8,9 @@
 
 ## 🔥 About Me  
 
-I'm a software developer with a passion for building high-quality, scalable,
- and efficient applications. Whether it's crafting beautiful UIs with Vue.js
- & Tailwind CSS or architecting powerful backends with Laravel,
+I'm a software developer with a passion for building high-quality, 
+scalable, and efficient applications. Whether it's crafting beautiful UIs with 
+Vue.js & Tailwind CSS or architecting powerful backends with Laravel,
  I love bringing ideas to life through code!  
 
 💡 **Currently Exploring:** Advanced Laravel Filament, Vue.js 3, WebSockets, and Real-Time Applications  
@@ -23,6 +23,7 @@ I'm a software developer with a passion for building high-quality, scalable,
 - **Backend:** Laravel, Node.js, Python  
 - **Database:** MySQL, MongoDB  
 - **Tools & Platforms:** Git, Docker, Filament, RESTful APIs, WebSockets  
+- **Previous Experience:** Laravel Voyager  
 
 ---
 
