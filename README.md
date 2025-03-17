@@ -41,5 +41,6 @@ Vue.js & Tailwind CSS or architecting powerful backends with Laravel,
 💌 **Email:** [kahsay21a@gmail.com](mailto:kahsay21a@gmail.com)  
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yourprofile)  
 💬 **Telegram:** [Chat with me](https://t.me/KahsayG21)  
+🌍 **Portfolio:** [kahsaygt.netlify.app](https://kahsaygt.netlify.app/)
 
 🌟 **Fun Fact:** When I'm not coding, you'll find me enjoying sports! 🏀⚽  
