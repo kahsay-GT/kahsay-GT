@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Kahsay Girmay  
+# 👋 Hey there! I'm Kahsay Girmay
 
 🚀 **Passionate Full-Stack Developer | Laravel | Vue.js | Filament | Tailwind CSS**  
 
@@ -16,6 +16,19 @@ Vue.js & Tailwind CSS or architecting powerful backends with Laravel,
 💡 **Currently Exploring:** Advanced Laravel Filament, Vue.js 3, WebSockets, and Real-Time Applications  
 
 ---
+
+🏆 **PHP SDK Challenge Winner** at Safaricom (April 2025)  
+I built an awesome PHP SDK for M-PESA, making mobile payments seamless for devs. Check it out [here](https://github.com/kahsay/mpesa-sdk-php)!
+
+💻 **What I Do**  
+- Full Stack Dev with a love for PHP, Vue.js, and Tailwind CSS.  
+- Studying Computer Science at Mekelle University (graduating 2026).  
+- Passionate about open-source and Ethiopia’s tech scene.
+
+🌟 **Recent Projects**  
+- [Mpesa SDK PHP](https://github.com/kahsay/mpesa-sdk-php): Modular SDK with .env config and robust error handling.  
+- [Portfolio](https://kahsaygt.netlify.app/): My Vue.js + Tailwind showcase.
+*Code today, shape tomorrow!*
 
 ## 💻 Tech Stack  
 
