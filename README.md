@@ -18,7 +18,7 @@ Vue.js & Tailwind CSS or architecting powerful backends with Laravel,
 ---
 
 🏆 **PHP SDK Challenge Winner** at Safaricom (April 2025)  
-I built an awesome PHP SDK for M-PESA, making mobile payments seamless for devs. Check it out [here](https://github.com/kahsay/mpesa-sdk-php)!
+I built an awesome PHP SDK for M-PESA, making web payments seamless for devs. Check it out [here](https://github.com/kahsay/mpesa-sdk-php)!
 
 💻 **What I Do**  
 - Full Stack Dev with a love for PHP, Vue.js, and Tailwind CSS.  
