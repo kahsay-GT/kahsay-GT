@@ -56,4 +56,4 @@ I built an awesome PHP SDK for M-PESA, making web payments seamless for devs. Ch
 💬 **Telegram:** [Chat with me](https://t.me/KahsayG21)  
 🌍 **Portfolio:** [kahsaygt.netlify.app](https://kahsaygt.netlify.app/)
 
-🌟 **Fun Fact:** When I'm not coding, you'll find me enjoying sports! 🏀⚽  
+🌟 **Fun Fact:** When I'm not coding, you'll find me enjoying sports! 🧍‍♂️⬆️💪  
