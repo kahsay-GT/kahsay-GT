@@ -18,7 +18,7 @@ Vue.js & Tailwind CSS or architecting powerful backends with Laravel,
 ---
 
 🏆 **PHP SDK Challenge Winner** at Safaricom (April 2025)  
-I built an awesome PHP SDK for M-PESA, making web payments seamless for devs. Check it out [here](https://github.com/kahsay/mpesa-sdk-php)!
+I built an awesome PHP SDK for M-PESA, making web payments seamless for devs. Check it out [here](https://github.com/kahsay-GT/mpesa-sdk-php)!
 
 💻 **What I Do**  
 - Full Stack Dev with a love for PHP, Vue.js, and Tailwind CSS.  
@@ -26,7 +26,7 @@ I built an awesome PHP SDK for M-PESA, making web payments seamless for devs. Ch
 - Passionate about open-source and Ethiopia’s tech scene.
 
 🌟 **Recent Projects**  
-- [Mpesa SDK PHP](https://github.com/kahsay/mpesa-sdk-php): Modular SDK with .env config and robust error handling.  
+- [Mpesa SDK PHP](https://github.com/kahsay-GT/mpesa-sdk-php): Modular SDK with .env config and robust error handling.  
 - [Portfolio](https://kahsaygt.netlify.app/): My Vue.js + Tailwind showcase.
 *Code today, shape tomorrow!*
 
@@ -52,7 +52,7 @@ I built an awesome PHP SDK for M-PESA, making web payments seamless for devs. Ch
 ## 📫 Let's Connect  
 
 💌 **Email:** [kahsay21a@gmail.com](mailto:kahsay21a@gmail.com)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yourprofile)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kahsay-girmay/) 
 💬 **Telegram:** [Chat with me](https://t.me/KahsayG21)  
 🌍 **Portfolio:** [kahsaygt.netlify.app](https://kahsaygt.netlify.app/)
 
