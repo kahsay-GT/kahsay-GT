@@ -16,7 +16,7 @@ I love turning ideas into impactful, real-world solutions.
 - ASP.NET Core, C#, and Entity Framework Core  
 - Next.js 14, React Server Components, and modern frontend architecture  
 - Integrating .NET backends with Next.js frontends for enterprise-grade apps
-- 
+
 ---
 
 🏆 **PHP SDK Challenge Winner** at Safaricom (April 2025)  
