@@ -37,7 +37,6 @@ Built a robust **PHP SDK for M-PESA**, making web payments seamless for develope
 
 - 🧩 [**M-PESA SDK PHP**](https://github.com/kahsay-GT/mpesa-sdk-php): Modular SDK with .env configuration and robust error handling  
 - 💼 [**Portfolio Website**](https://kahsaygt.netlify.app/): Built with Vue.js & Tailwind CSS — showcasing my projects and journey  
-- ⚙️ Upcoming: **.NET + Next.js Full-Stack Application** (Internship project at Exceed)  
 
 *“Code today, shape tomorrow!”*  
 
