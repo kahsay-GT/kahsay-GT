@@ -54,7 +54,7 @@ Built a robust **PHP SDK for M-PESA**, making web payments seamless for develope
 
 ## 🎯 What I’m Working On  
 
-🚧 **Building full-stack .NET + Next.js apps at Exceed**  
+🚧 **Building full-stack .NET + Next.js**  
 ⚙️ **Exploring Enterprise Architecture & Design Patterns**  
 📡 **Working with APIs, Authentication, and Real-Time Systems**  
 📚 **Leveling up in C# and Advanced Frontend Development**  
