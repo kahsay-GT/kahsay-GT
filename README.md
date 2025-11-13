@@ -66,7 +66,7 @@ Built a robust **PHP SDK for M-PESA**, making web payments seamless for develope
 💌 **Email:** [kahsay21a@gmail.com](mailto:kahsay21a@gmail.com)  
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kahsay-girmay/)  
 💬 **Telegram:** [Chat with me](https://t.me/KahsayG21)  
-🌍 **Portfolio:** [kahsaygt.netlify.app](https://https://kahsay.vercel.app/)
+🌍 **Portfolio:** [kahsaygt.netlify.app](https://kahsay.vercel.app/)
 
 ---
 
