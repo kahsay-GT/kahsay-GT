@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Kahsay Girmay
 
-🚀 **Full-Stack Developer | ASP.NET Core | Next.js | C# | Laravel | Tailwind CSS**  
+🚀 **Full-Stack Developer | Java - Spring Boot | ASP.NET Core | Nest.JS | Laravel | React.JS-Next.JS | Vue.Js**  
 
-📍 **Mekelle, Tigray, Ethiopia**  
+📍 **Addis Ababa, Ethiopia**  
 
 ---
 
