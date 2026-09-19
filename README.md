@@ -1,73 +1,47 @@
-# 👋 Hey there! I'm Kahsay Girmay
+# 👋 Hi, I'm Kahsay Girmay
 
-🚀 **Full-Stack Developer | Java - Spring Boot | ASP.NET Core | Nest.JS | Laravel | React.JS-Next.JS | Vue.Js**  
-
-📍 **Addis Ababa, Ethiopia**  
-
----
-
-## 🔥 About Me  
-
-I'm a **passionate full-stack developer** dedicated to building high-quality, scalable, and efficient web applications.  
-From crafting sleek interfaces with **Next.js & Tailwind CSS** to developing powerful APIs with **ASP.NET Core (C#)** and **Laravel**,  
-I love turning ideas into impactful, real-world solutions.  
-
-💡 **Currently Exploring:**  
-- ASP.NET Core, C#, and Entity Framework Core  
-- Next.js 14, React Server Components, and modern frontend architecture  
-- Integrating .NET backends with Next.js frontends for enterprise-grade apps
+**Full-Stack Developer | .NET Core | Angular | React | Laravel | Node.js**
+📍 Addis Ababa, Ethiopia
 
 ---
 
-🏆 **PHP SDK Challenge Winner** at Safaricom (April 2025)  
-Built a robust **PHP SDK for M-PESA**, making web payments seamless for developers.  
-👉 [Check it out on GitHub](https://github.com/kahsay-GT/mpesa-sdk-php)
+## 🔥 About Me
+
+I build scalable, high-performance web applications end to end — from responsive **Angular** and **React** interfaces to robust APIs powered by **.NET Core** and **Laravel**. Comfortable working across relational databases like **PostgreSQL** and **MySQL**, I focus on clean architecture and real-world reliability.
+
+**Currently exploring:**
+- .NET Core, C#, and Entity Framework Core
+- Angular & React for modern, component-driven UIs
+- Connecting .NET/Node backends to PostgreSQL & MySQL at scale
 
 ---
 
-## 💻 What I Do  
+## 🏆 Highlight
 
-- Build full-stack apps using **.NET**, **Next.js**, and **Laravel**  
-- Study **Computer Science** at **Mekelle University** (Graduating 2026)  
-- Contribute to open-source projects and Ethiopia’s growing tech ecosystem  
-
----
-
-## 🌟 Featured Projects  
-
-- 🧩 [**M-PESA SDK PHP**](https://github.com/kahsay-GT/mpesa-sdk-php): Modular SDK with .env configuration and robust error handling  
-- 💼 [**Portfolio Website**](https://kahsay.vercel.app/): Built with Vue.js & Tailwind CSS — showcasing my projects and journey  
-
-*“Code today, shape tomorrow!”*  
+**PHP SDK Challenge Winner** — Safaricom (April 2025)
+Built a production-ready **PHP SDK for M-PESA** integrations.
+👉 [View on GitHub](https://github.com/kahsay-GT/mpesa-sdk-php)
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
-- **Frontend:** Next.js, React, Vue.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** ASP.NET Core (C#), Laravel, Node.js, Python  
-- **Database:** SQL Server, MySQL, MongoDB  
-- **Tools & Platforms:** Git, Docker, Filament, RESTful APIs, Postman, Visual Studio Code  
-- **Previous Experience:** Laravel Filament & Voyager  
-
----
-
-## 🎯 What I’m Working On  
-
-🚧 **Building full-stack .NET + Next.js**  
-⚙️ **Exploring Enterprise Architecture & Design Patterns**  
-📡 **Working with APIs, Authentication, and Real-Time Systems**  
-📚 **Leveling up in C# and Advanced Frontend Development**  
+- **Frontend:** Angular, React, Next.js, Tailwind CSS
+- **Backend:** .NET Core (C#), Laravel, Node.js
+- **Database:** PostgreSQL, MySQL, SQL Server
+- **Tools:** Git, Docker, REST APIs, Postman, VS Code
 
 ---
 
-## 📫 Let's Connect  
+## 🌟 Featured Projects
 
-💌 **Email:** [kahsay21a@gmail.com](mailto:kahsay21a@gmail.com)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/kahsay-girmay/)  
-💬 **Telegram:** [Chat with me](https://t.me/KahsayG21)  
-🌍 **Portfolio:** [kahsaygt.netlify.app](https://kahsay.vercel.app/)
+- 🧩 [**M-PESA SDK (PHP)**](https://github.com/kahsay-GT/mpesa-sdk-php) — modular SDK with `.env` config and error handling
+- 💼 [**Portfolio**](https://kahsay.vercel.app/) — built with Vue.js & Tailwind CSS
+
+*"Code today, shape tomorrow."*
 
 ---
 
-🌟 **Fun Fact:** When I'm not coding, you’ll find me enjoying sports and challenging myself to learn something new every day! 💪⚽  
+## 📫 Let's Connect
+
+📧 [kahsay21a@gmail.com](mailto:kahsay21a@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kahsay-girmay/) · 💬 [Telegram](https://t.me/KahsayG21) · 🌍 [Portfolio](https://kahsay.vercel.app/)
